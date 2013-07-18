@@ -1,0 +1,17 @@
+# Notec
+
+##About notec environment
+
+* Ruby version              1.9.3 (i686-linux)
+* RubyGems version          1.8.24
+* Rack version              1.4
+* Rails version             3.2.13
+* JavaScript Runtime        Node.js (V8)
+* Active Record version     3.2.13
+* Action Pack version       3.2.13
+* Active Resource version   3.2.13
+* Action Mailer version     3.2.13
+* Active Support version    3.2.13
+
+
+source: [http://railscasts.com/episodes/238-mongoid?view=asciicast](http://railscasts.com/episodes/238-mongoid?view=asciicast)
